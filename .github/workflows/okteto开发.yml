@@ -1,7 +1,7 @@
 name: okteto开发
 on:
   schedule:
-    - cron: 10 22 * * *
+    - cron: 45 16 * * *
   watch:
     types: started
 jobs:
